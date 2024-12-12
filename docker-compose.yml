@@ -1,10 +1,8 @@
 version: '3.8'
 
 services:
-  web:
-    build:
-      context: .
-      dockerfile: Dockerfile
+  fusionn-ui:
+    image: ghcr.io/weizsw/fusionn-ui:latest
     ports:
       - "3000:3000"
     environment:
