@@ -1,0 +1,26 @@
+{
+  "tabs": {
+    "extract": "提取",
+    "merge": "合并",
+    "batch": "批处理"
+  },
+  "inputs": {
+    "videoPath": "视频文件路径：",
+    "chsSubtitle": "中文字幕路径 (.srt)：",
+    "engSubtitle": "英文字幕路径 (.srt)：",
+    "folderPath": "文件夹路径："
+  },
+  "buttons": {
+    "process": "处理",
+    "processing": "处理中...",
+    "merge": "合并",
+    "merging": "合并中...",
+    "processFolder": "处理文件夹"
+  },
+  "placeholders": {
+    "videoPath": "视频文件路径",
+    "chsSubtitle": "/路径/到/中文/字幕.srt",
+    "engSubtitle": "/路径/到/英文/字幕.srt",
+    "folderPath": "/路径/到/你的/文件夹（无文件扩展名）"
+  }
+}

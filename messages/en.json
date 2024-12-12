@@ -1,0 +1,26 @@
+{
+  "tabs": {
+    "extract": "Extract",
+    "merge": "Merge",
+    "batch": "Batch"
+  },
+  "inputs": {
+    "videoPath": "Video File Path:",
+    "chsSubtitle": "Chinese Subtitle Path (.srt):",
+    "engSubtitle": "English Subtitle Path (.srt):",
+    "folderPath": "Folder Path:"
+  },
+  "buttons": {
+    "process": "Process",
+    "processing": "Processing...",
+    "merge": "Merge",
+    "merging": "Merging...",
+    "processFolder": "Process Folder"
+  },
+  "placeholders": {
+    "videoPath": "Path to video file",
+    "chsSubtitle": "/path/to/chinese/subtitle.srt",
+    "engSubtitle": "/path/to/english/subtitle.srt",
+    "folderPath": "/path/to/your/folder (no file extension)"
+  }
+}
