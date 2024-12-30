@@ -64,7 +64,7 @@ export function MainContent() {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          sonarr_episodefile_path: filePath,
+          file_path: filePath,
         }),
       });
 
